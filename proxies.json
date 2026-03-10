@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10 15:52:55 UTC",
+  "updated_at": "2026-03-10 16:49:22 UTC",
   "count": 2963,
   "data": [
     {
@@ -131,14 +131,6 @@
       "speed": 481
     },
     {
-      "ip": "13.232.2.142",
-      "port": 43484,
-      "protocol": "Http, Socks4",
-      "country": "IN",
-      "anonymity": "Elite",
-      "speed": 486
-    },
-    {
       "ip": "108.137.1.116",
       "port": 12496,
       "protocol": "Http, Socks4",
@@ -151,6 +143,14 @@
       "port": 19985,
       "protocol": "Http",
       "country": "ID",
+      "anonymity": "Elite",
+      "speed": 486
+    },
+    {
+      "ip": "13.232.2.142",
+      "port": 43484,
+      "protocol": "Http, Socks4",
+      "country": "IN",
       "anonymity": "Elite",
       "speed": 486
     },
@@ -236,16 +236,16 @@
     },
     {
       "ip": "13.212.14.16",
-      "port": 37527,
-      "protocol": "Http",
+      "port": 8124,
+      "protocol": "Https",
       "country": "SG",
       "anonymity": "Elite",
       "speed": 554
     },
     {
       "ip": "13.212.14.16",
-      "port": 8124,
-      "protocol": "Https",
+      "port": 37527,
+      "protocol": "Http",
       "country": "SG",
       "anonymity": "Elite",
       "speed": 554
@@ -299,18 +299,18 @@
       "speed": 567
     },
     {
-      "ip": "108.137.1.116",
-      "port": 10809,
-      "protocol": "Socks4",
-      "country": "ID",
-      "anonymity": "Elite",
-      "speed": 570
-    },
-    {
       "ip": "13.212.14.16",
       "port": 15449,
       "protocol": "Https",
       "country": "SG",
+      "anonymity": "Elite",
+      "speed": 570
+    },
+    {
+      "ip": "108.137.1.116",
+      "port": 10809,
+      "protocol": "Socks4",
+      "country": "ID",
       "anonymity": "Elite",
       "speed": 570
     },
@@ -403,14 +403,6 @@
       "speed": 616
     },
     {
-      "ip": "13.232.2.142",
-      "port": 46102,
-      "protocol": "Https, Socks5",
-      "country": "IN",
-      "anonymity": "Elite",
-      "speed": 617
-    },
-    {
       "ip": "13.212.222.137",
       "port": 8187,
       "protocol": "Http",
@@ -420,17 +412,25 @@
     },
     {
       "ip": "13.232.2.142",
-      "port": 233,
-      "protocol": "Https",
+      "port": 46102,
+      "protocol": "Https, Socks5",
       "country": "IN",
       "anonymity": "Elite",
-      "speed": 618
+      "speed": 617
     },
     {
       "ip": "13.212.14.16",
       "port": 9050,
       "protocol": "Http",
       "country": "SG",
+      "anonymity": "Elite",
+      "speed": 618
+    },
+    {
+      "ip": "13.232.2.142",
+      "port": 233,
+      "protocol": "Https",
+      "country": "IN",
       "anonymity": "Elite",
       "speed": 618
     },
@@ -539,18 +539,18 @@
       "speed": 651
     },
     {
-      "ip": "108.137.1.116",
-      "port": 10084,
-      "protocol": "Http, Socks5",
-      "country": "ID",
-      "anonymity": "Elite",
-      "speed": 654
-    },
-    {
       "ip": "13.212.14.16",
       "port": 7878,
       "protocol": "Http",
       "country": "SG",
+      "anonymity": "Elite",
+      "speed": 654
+    },
+    {
+      "ip": "108.137.1.116",
+      "port": 10084,
+      "protocol": "Http, Socks5",
+      "country": "ID",
       "anonymity": "Elite",
       "speed": 654
     },
@@ -819,14 +819,6 @@
       "speed": 736
     },
     {
-      "ip": "108.137.1.116",
-      "port": 1083,
-      "protocol": "Http, Https, Socks5",
-      "country": "ID",
-      "anonymity": "Elite",
-      "speed": 740
-    },
-    {
       "ip": "13.212.14.16",
       "port": 8890,
       "protocol": "Https",
@@ -835,18 +827,26 @@
       "speed": 740
     },
     {
-      "ip": "13.212.14.16",
-      "port": 49711,
-      "protocol": "Socks5",
-      "country": "SG",
+      "ip": "108.137.1.116",
+      "port": 1083,
+      "protocol": "Http, Https, Socks5",
+      "country": "ID",
       "anonymity": "Elite",
-      "speed": 743
+      "speed": 740
     },
     {
       "ip": "108.137.1.116",
       "port": 233,
       "protocol": "Socks4",
       "country": "ID",
+      "anonymity": "Elite",
+      "speed": 743
+    },
+    {
+      "ip": "13.212.14.16",
+      "port": 49711,
+      "protocol": "Socks5",
+      "country": "SG",
       "anonymity": "Elite",
       "speed": 743
     },
@@ -923,14 +923,6 @@
       "speed": 753
     },
     {
-      "ip": "13.212.222.137",
-      "port": 2999,
-      "protocol": "Socks5",
-      "country": "SG",
-      "anonymity": "Elite",
-      "speed": 754
-    },
-    {
       "ip": "13.232.2.142",
       "port": 32600,
       "protocol": "Https",
@@ -939,18 +931,26 @@
       "speed": 754
     },
     {
-      "ip": "103.125.31.222",
-      "port": 80,
-      "protocol": "Http",
-      "country": "BD",
+      "ip": "13.212.222.137",
+      "port": 2999,
+      "protocol": "Socks5",
+      "country": "SG",
       "anonymity": "Elite",
-      "speed": 755
+      "speed": 754
     },
     {
       "ip": "108.137.1.116",
       "port": 10025,
       "protocol": "Socks4, Socks5",
       "country": "ID",
+      "anonymity": "Elite",
+      "speed": 755
+    },
+    {
+      "ip": "103.125.31.222",
+      "port": 80,
+      "protocol": "Http",
+      "country": "BD",
       "anonymity": "Elite",
       "speed": 755
     },
@@ -980,6 +980,14 @@
     },
     {
       "ip": "108.137.1.116",
+      "port": 174,
+      "protocol": "Http, Https, Socks5",
+      "country": "ID",
+      "anonymity": "Elite",
+      "speed": 761
+    },
+    {
+      "ip": "108.137.1.116",
       "port": 8055,
       "protocol": "Http, Socks4, Socks5",
       "country": "ID",
@@ -988,25 +996,17 @@
     },
     {
       "ip": "108.137.1.116",
-      "port": 174,
-      "protocol": "Http, Https, Socks5",
+      "port": 13583,
+      "protocol": "Socks4, Socks5",
       "country": "ID",
       "anonymity": "Elite",
-      "speed": 761
+      "speed": 763
     },
     {
       "ip": "13.212.222.137",
       "port": 51243,
       "protocol": "Https",
       "country": "SG",
-      "anonymity": "Elite",
-      "speed": 763
-    },
-    {
-      "ip": "108.137.1.116",
-      "port": 13583,
-      "protocol": "Socks4, Socks5",
-      "country": "ID",
       "anonymity": "Elite",
       "speed": 763
     },
@@ -1235,18 +1235,18 @@
       "speed": 824
     },
     {
-      "ip": "108.137.1.116",
-      "port": 53797,
-      "protocol": "Https",
-      "country": "ID",
-      "anonymity": "Elite",
-      "speed": 825
-    },
-    {
       "ip": "13.212.222.137",
       "port": 66,
       "protocol": "Http, Https",
       "country": "SG",
+      "anonymity": "Elite",
+      "speed": 825
+    },
+    {
+      "ip": "108.137.1.116",
+      "port": 53797,
+      "protocol": "Https",
+      "country": "ID",
       "anonymity": "Elite",
       "speed": 825
     },
@@ -1323,18 +1323,18 @@
       "speed": 838
     },
     {
-      "ip": "108.137.1.116",
-      "port": 9093,
-      "protocol": "Https, Socks4",
-      "country": "ID",
-      "anonymity": "Elite",
-      "speed": 840
-    },
-    {
       "ip": "13.232.2.142",
       "port": 10012,
       "protocol": "Http, Https, Socks4",
       "country": "IN",
+      "anonymity": "Elite",
+      "speed": 840
+    },
+    {
+      "ip": "108.137.1.116",
+      "port": 9093,
+      "protocol": "Https, Socks4",
+      "country": "ID",
       "anonymity": "Elite",
       "speed": 840
     },
@@ -1587,18 +1587,18 @@
       "speed": 929
     },
     {
-      "ip": "13.232.2.142",
-      "port": 427,
-      "protocol": "Https",
-      "country": "IN",
-      "anonymity": "Elite",
-      "speed": 930
-    },
-    {
       "ip": "13.212.14.16",
       "port": 8076,
       "protocol": "Socks5",
       "country": "SG",
+      "anonymity": "Elite",
+      "speed": 930
+    },
+    {
+      "ip": "13.232.2.142",
+      "port": 427,
+      "protocol": "Https",
+      "country": "IN",
       "anonymity": "Elite",
       "speed": 930
     },
@@ -1627,18 +1627,18 @@
       "speed": 939
     },
     {
-      "ip": "13.212.14.16",
-      "port": 8047,
-      "protocol": "Https, Socks4",
-      "country": "SG",
-      "anonymity": "Elite",
-      "speed": 943
-    },
-    {
       "ip": "108.137.1.116",
       "port": 146,
       "protocol": "Socks4, Socks5",
       "country": "ID",
+      "anonymity": "Elite",
+      "speed": 943
+    },
+    {
+      "ip": "13.212.14.16",
+      "port": 8047,
+      "protocol": "Https, Socks4",
+      "country": "SG",
       "anonymity": "Elite",
       "speed": 943
     },
@@ -1843,18 +1843,18 @@
       "speed": 1069
     },
     {
-      "ip": "13.212.14.16",
-      "port": 131,
-      "protocol": "Https",
-      "country": "SG",
-      "anonymity": "Elite",
-      "speed": 1073
-    },
-    {
       "ip": "108.137.1.116",
       "port": 209,
       "protocol": "Https, Socks4, Socks5",
       "country": "ID",
+      "anonymity": "Elite",
+      "speed": 1073
+    },
+    {
+      "ip": "13.212.14.16",
+      "port": 131,
+      "protocol": "Https",
+      "country": "SG",
       "anonymity": "Elite",
       "speed": 1073
     },
@@ -1923,18 +1923,18 @@
       "speed": 1152
     },
     {
-      "ip": "13.212.222.137",
-      "port": 275,
-      "protocol": "Https, Socks4, Socks5",
-      "country": "SG",
-      "anonymity": "Elite",
-      "speed": 1153
-    },
-    {
       "ip": "108.137.1.116",
       "port": 8077,
       "protocol": "Http, Socks4, Socks5",
       "country": "ID",
+      "anonymity": "Elite",
+      "speed": 1153
+    },
+    {
+      "ip": "13.212.222.137",
+      "port": 275,
+      "protocol": "Https, Socks4, Socks5",
+      "country": "SG",
       "anonymity": "Elite",
       "speed": 1153
     },
@@ -1987,18 +1987,18 @@
       "speed": 1210
     },
     {
-      "ip": "13.212.222.137",
-      "port": 2000,
-      "protocol": "Socks4",
-      "country": "SG",
-      "anonymity": "Elite",
-      "speed": 1212
-    },
-    {
       "ip": "108.137.1.116",
       "port": 14465,
       "protocol": "Socks4, Socks5",
       "country": "ID",
+      "anonymity": "Elite",
+      "speed": 1212
+    },
+    {
+      "ip": "13.212.222.137",
+      "port": 2000,
+      "protocol": "Socks4",
+      "country": "SG",
       "anonymity": "Elite",
       "speed": 1212
     },
@@ -2011,18 +2011,18 @@
       "speed": 1226
     },
     {
-      "ip": "108.137.1.116",
-      "port": 4148,
-      "protocol": "Http, Socks4, Socks5",
-      "country": "ID",
-      "anonymity": "Elite",
-      "speed": 1227
-    },
-    {
       "ip": "13.212.14.16",
       "port": 446,
       "protocol": "Socks5",
       "country": "SG",
+      "anonymity": "Elite",
+      "speed": 1227
+    },
+    {
+      "ip": "108.137.1.116",
+      "port": 4148,
+      "protocol": "Http, Socks4, Socks5",
+      "country": "ID",
       "anonymity": "Elite",
       "speed": 1227
     },
@@ -2339,18 +2339,18 @@
       "speed": 1924
     },
     {
-      "ip": "103.184.67.25",
-      "port": 1080,
-      "protocol": "Socks4",
-      "country": "ID",
-      "anonymity": "Elite",
-      "speed": 1939
-    },
-    {
       "ip": "123.57.0.163",
       "port": 8888,
       "protocol": "Http",
       "country": "CN",
+      "anonymity": "Elite",
+      "speed": 1939
+    },
+    {
+      "ip": "103.184.67.25",
+      "port": 1080,
+      "protocol": "Socks4",
+      "country": "ID",
       "anonymity": "Elite",
       "speed": 1939
     },
@@ -2443,16 +2443,16 @@
       "speed": 2544
     },
     {
-      "ip": "114.215.127.92",
-      "port": 100,
+      "ip": "121.230.8.25",
+      "port": 1080,
       "protocol": "Http",
       "country": "CN",
       "anonymity": "Elite",
       "speed": 2632
     },
     {
-      "ip": "121.230.8.25",
-      "port": 1080,
+      "ip": "114.215.127.92",
+      "port": 100,
       "protocol": "Http",
       "country": "CN",
       "anonymity": "Elite",
@@ -2515,18 +2515,18 @@
       "speed": 2684
     },
     {
-      "ip": "120.26.52.35",
-      "port": 8899,
-      "protocol": "Http",
-      "country": "CN",
-      "anonymity": "Elite",
-      "speed": 2706
-    },
-    {
       "ip": "13.212.14.16",
       "port": 8095,
       "protocol": "Socks4, Socks5",
       "country": "SG",
+      "anonymity": "Elite",
+      "speed": 2706
+    },
+    {
+      "ip": "120.26.52.35",
+      "port": 8899,
+      "protocol": "Http",
+      "country": "CN",
       "anonymity": "Elite",
       "speed": 2706
     },
